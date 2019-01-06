@@ -1,4 +1,4 @@
-package com.ceschin.loris.vitrine.network;
+package com.ceschin.loris.vitrine.service;
 
 import android.content.Context;
 import android.graphics.Bitmap;
